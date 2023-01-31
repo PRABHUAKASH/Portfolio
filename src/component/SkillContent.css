@@ -1,0 +1,44 @@
+.head {
+  text-align: center;
+  color: antiquewhite;
+  padding-top: 2rem;
+}
+.icons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.react {
+  color: rgb(5, 176, 238);
+}
+.js {
+  color: rgb(249, 194, 12);
+}
+.bootstrap {
+  color: rgb(135, 17, 245);
+  size: 5rem;
+}
+.mysql {
+  color: rgb(7, 122, 246);
+}
+.second {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 2rem;
+}
+.nodejs {
+  color: rgb(7, 189, 7);
+}
+.mongodb {
+  color: rgb(3, 78, 3);
+}
+.html {
+  color: rgb(167, 5, 5);
+}
+.css {
+  color: rgb(5, 5, 154);
+}
+.skill {
+  padding-bottom: 10rem;
+}
